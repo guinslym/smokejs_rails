@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = SmokejsRails::VERSION
   spec.authors       = ["Guinsly Mondesir"]
   spec.email         = ["agmond@gmx.com.br"]
-  spec.summary       = %q{A Rails javascript alert}
+  spec.summary       = %q{A Rails javascript alert, framework-agnostic styled alert}
   spec.description   = %q{A Rails implementation of smoke.js}
   spec.homepage      = "https://github.com/guinslym/smokejs_rails"
   spec.license       = "MIT"
