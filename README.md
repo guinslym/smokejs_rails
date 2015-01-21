@@ -25,7 +25,7 @@ add in `app/assets/javascripts/application.js` after jquery (below jquery)
 
 add in `app/assets/stylesheets/application.css` 
 
-	//= require smoke
+	*= require smoke
 
 ```javascript
 <script type="text/javascript">
@@ -44,7 +44,7 @@ add in `app/assets/stylesheets/application.css`
 ```
 ###Doc
 [smoke-js](http://smoke-js.com/)
-[jque.re](http://www.jque.re/plugins/modals-lightboxes/smoke.js/)
+*[jque.re](http://www.jque.re/plugins/modals-lightboxes/smoke.js/)*
 
 ```javascript
 smoke.alert('this is a normal alert');
