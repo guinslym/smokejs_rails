@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = SmokejsRails::VERSION
   spec.authors       = ["Guinsly Mondesir"]
   spec.email         = ["agmond@gmx.com.br"]
-  spec.summary       = %q{A Rails implementation of smokejs (http://smoke-js.com/) A stylish javascript alert, framework-agnostic styled alert}
-  spec.description   = %q{A Rails implementation of smokejs (http://smoke-js.com/) A stylish javascript alert, framework-agnostic styled alert}
+  spec.summary       = %q{A Rails implementation of smokejs (http://smoke-js.com/) A stylish javascript alert, A framework-agnostic styled alert}
+  spec.description   = %q{A Rails implementation of smokejs (http://smoke-js.com/) A stylish javascript alert, A framework-agnostic styled alert}
   spec.homepage      = "https://github.com/guinslym/smokejs_rails"
   spec.license       = "MIT"
 
