@@ -43,8 +43,8 @@ add in `app/assets/stylesheets/application.css`
 </script>
 ```
 ###Doc
-[smoke-js](http://smoke-js.com/)
-*[jque.re](http://www.jque.re/plugins/modals-lightboxes/smoke.js/)*
+[smoke-js](http://smoke-js.com/) and
+[jque.re](http://www.jque.re/plugins/modals-lightboxes/smoke.js/)
 
 ```javascript
 smoke.alert('this is a normal alert');
